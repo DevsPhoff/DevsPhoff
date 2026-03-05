@@ -24,8 +24,6 @@
 
 <br>
 
-🖥️ Praticando lógica de programação com Portugol.
-
 ---
 
 ##  Objetivos
