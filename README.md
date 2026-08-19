@@ -8,7 +8,6 @@
 🎓 Estudante de Desenvolvimento de Sistemas  
 💻 Estudando Python, Java, HTML, CSS  
 🚀 Focado em crescer na área de tecnologia  
-📶 Atualmente trabalho na Unifique    
 📧 Email para contato: pedrohoffmann.work@gmail.com  
 
 ---
