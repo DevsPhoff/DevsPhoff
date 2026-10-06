@@ -1,5 +1,5 @@
 ## Olá eu sou o Pedro Hoffmann
- <img src="https://img.shields.io/github/followers/DevsPhoff?label=Seguidores&style=for-the-badge" />  <img src="https://img.shields.io/github/stars/DevsPhoff?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" /> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hoffmann_pedroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoffmannpedrodevs)
+ <img src="https://img.shields.io/github/followers/DevsPhoff?label=Seguidores&style=for-the-badge" />   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hoffmann_pedroo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoffmannpedrodevs)
 
 ---
 
